@@ -1,0 +1,22 @@
+{
+  "name": "jest_js",
+  "version": "1.0.0",
+  "description": "ci-jest_js testbed",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davewatters/jest_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davewatters/jest_js/issues"
+  },
+  "homepage": "https://github.com/davewatters/jest_js#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
